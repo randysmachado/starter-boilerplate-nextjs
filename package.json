@@ -39,7 +39,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "eslint-plugin-storybook": "^0.5.6",
+    "eslint-plugin-storybook": "^0.5.13",
     "jest": "^27.4.7",
     "jest-styled-components": "^7.0.8",
     "plop": "^3.0.5",
